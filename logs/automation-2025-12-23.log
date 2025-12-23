@@ -1,0 +1,43 @@
+23:27:01.012 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:01.044 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:27:01.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:01.073 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:27:01.172 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:01.176 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:27:01.178 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:01.274 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:27:01.304 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:01.306 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:27:01.308 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:01.326 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:27:01.348 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:01.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:27:01.352 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:01.373 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:27:01.408 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:01.410 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:27:01.412 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:01.435 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:27:01.461 [main] INFO  testCases.TC003_LoginDDT - *************  Starting TC003_LoginDDT***********
+23:27:01.733 [main] INFO  testCases.TC003_LoginDDT - Entered password
+23:27:07.251 [main] INFO  testCases.TC003_LoginDDT - Clicked on login
+23:27:11.335 [main] INFO  testCases.TC003_LoginDDT - *************  Starting TC003_LoginDDT***********
+23:27:11.516 [main] INFO  testCases.TC003_LoginDDT - Entered password
+23:27:12.462 [main] INFO  testCases.TC003_LoginDDT - Clicked on login
+23:27:22.576 [main] INFO  testCases.TC003_LoginDDT - *************  Starting TC003_LoginDDT***********
+23:27:22.793 [main] INFO  testCases.TC003_LoginDDT - Entered password
+23:27:24.383 [main] INFO  testCases.TC003_LoginDDT - Clicked on login
+20:49:11.333 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\master.xml"
+20:49:11.683 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Sel_prep\ParaBank\master.xml
+
+20:49:21.930 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Starting TC001_AccountRegistrationTest   *******
+20:49:23.392 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the registration link....
+20:49:23.399 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing the customer details....
+20:49:24.766 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the confirmation message....
+20:49:25.382 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  finished TC001_AccountRegistrationTest   *******
+20:50:57.654 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\master.xml"
+20:51:02.163 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Starting TC001_AccountRegistrationTest   *******
+20:51:02.795 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the registration link....
+20:51:02.823 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing the customer details....
+20:51:04.444 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the confirmation message....

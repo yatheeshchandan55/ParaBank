@@ -1,0 +1,19 @@
+20:51:04.494 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  finished TC001_AccountRegistrationTest   *******
+20:51:08.754 [main] INFO  testCases.TC002_LoginTest - *************  Starting TC002_LoginTest***********
+20:51:08.981 [main] INFO  testCases.TC002_LoginTest - Entered password
+20:51:10.345 [main] INFO  testCases.TC002_LoginTest - Clicked on login
+20:52:18.091 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\master.xml"
+20:52:22.635 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Starting TC001_AccountRegistrationTest   *******
+20:52:23.319 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the registration link....
+20:52:23.325 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing the customer details....
+20:52:24.601 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the confirmation message....
+20:52:24.965 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  finished TC001_AccountRegistrationTest   *******
+20:52:31.599 [main] INFO  testCases.TC002_LoginTest - *************  Starting TC002_LoginTest***********
+20:52:31.805 [main] INFO  testCases.TC002_LoginTest - Entered password
+20:52:31.891 [main] INFO  testCases.TC002_LoginTest - Clicked on login
+20:53:52.159 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\master.xml"
+20:53:57.782 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Starting TC001_AccountRegistrationTest   *******
+20:53:59.709 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the registration link....
+20:53:59.715 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing the customer details....
+20:54:25.089 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the confirmation message....
+20:54:25.136 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  finished TC001_AccountRegistrationTest   *******

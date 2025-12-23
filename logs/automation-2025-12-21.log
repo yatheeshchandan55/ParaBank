@@ -1,0 +1,63 @@
+16:15:45.907 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\grouping.xml"
+16:15:46.329 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Sel_prep\ParaBank\grouping.xml
+
+16:16:40.982 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\grouping.xml"
+16:16:41.437 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Sel_prep\ParaBank\grouping.xml
+
+16:17:18.380 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\grouping.xml"
+16:17:18.843 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Sel_prep\ParaBank\grouping.xml
+
+16:20:49.099 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\grouping.xml"
+16:20:49.516 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Sel_prep\ParaBank\grouping.xml
+
+16:21:44.882 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\master.xml"
+16:21:45.277 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Sel_prep\ParaBank\master.xml
+
+16:21:54.317 [main] INFO  testCases.TC002_LoginTest - *************  Starting TC002_LoginTest***********
+16:21:54.697 [main] INFO  testCases.TC002_LoginTest - Entered password
+16:21:57.222 [main] INFO  testCases.TC002_LoginTest - Clicked on login
+16:23:12.628 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\grouping.xml"
+16:23:13.009 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Sel_prep\ParaBank\grouping.xml
+
+16:23:17.663 [main] INFO  testCases.TC002_LoginTest - *************  Starting TC002_LoginTest***********
+16:23:18.022 [main] INFO  testCases.TC002_LoginTest - Entered password
+16:23:20.064 [main] INFO  testCases.TC002_LoginTest - Clicked on login
+16:25:17.392 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\grouping.xml"
+16:25:17.775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Sel_prep\ParaBank\grouping.xml
+
+16:25:43.868 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\grouping.xml"
+16:25:44.243 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Sel_prep\ParaBank\grouping.xml
+
+16:26:24.120 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\grouping.xml"
+16:26:24.475 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Sel_prep\ParaBank\grouping.xml
+
+16:27:00.861 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Sel_prep\ParaBank\master.xml"
+16:27:01.290 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Sel_prep\ParaBank\master.xml
+
+16:27:08.597 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:27:08.605 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:27:08.610 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:27:09.577 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:27:09.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:27:09.807 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:27:09.811 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:27:09.856 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:27:09.891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:27:09.894 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:27:09.897 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:27:09.932 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:27:09.988 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:27:09.990 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:27:09.993 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:27:10.024 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:27:10.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
